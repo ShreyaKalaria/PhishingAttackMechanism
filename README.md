@@ -9,3 +9,5 @@ Database > Data Captured > Data Encryption > Data Retention Policies > Attacker 
 
 Exploitation Mechanism of the steps and processes (IMPLEMENTED JUST CODE SNIPPETS):
 Attacker > Retrieval of Credentials > Decryption of Credentials > Victim Account Access > Perform Malicious Activities > Technical Measures > Covering Tracks.
+
+The images of the proposed process flow diagrams of the whole Phishing Process flow is attached and with that the Data Storage and Exploitation Mechanism process flows are attached to understand the exact working of it with a clear visualization.
